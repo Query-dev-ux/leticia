@@ -1,9 +1,6 @@
 name = "leticia"
 compatibility_date = "2024-01-01"
 
-[site]
-bucket = "./dist" 
-
 [vars]
 FIREBASE_API_KEY = "AIzaSyCa9S2LePBuzTi3PwVfCC-ZLb2q7c-LufI"
 FIREBASE_PROJECT_ID = "leticiabot-3e1f3"
