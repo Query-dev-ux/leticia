@@ -1,0 +1,22 @@
+{
+  "name": "Leticia",
+  "version": "1.0.0",
+  "description": "Simple Telegram Mini App that opens a website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@twa-dev/sdk": "^6.9.1",
+    "firebase": "^11.9.1",
+    "jose": "^6.0.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.12"
+  }
+}
